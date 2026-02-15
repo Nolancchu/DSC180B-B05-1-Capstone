@@ -10,4 +10,4 @@ Steps for replication:
 
 4. In the BRICK folder, run generate_rslr.r in order to generate the regional sea level rise projections for each pathway.
 
-5. 
+5. For the final model, download sliiders-v1.2.zar.zip, open the projected costs folder and run file: run_pyciam_regional_rise.ipynb.
