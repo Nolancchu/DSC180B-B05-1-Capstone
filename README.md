@@ -14,4 +14,4 @@ Steps for replication:
 
 6. For the final model, download sliiders-v1.2.zar.zip at link: https://zenodo.org/records/10909655, open the projected costs folder and run file: run_pyciam_regional_rise.ipynb.
 
-6. To generate the visualizations, first download https://drive.google.com/file/d/1Dk3DYOhaYahwIBE-Kxa8t4NTuqE8d1fL/view?usp=sharing and place it in the repository. Next, download https://drive.google.com/file/d/1VW4dHIp7_befuztdh3rXQqmqt-TfU901/view?usp=sharing, and place it in the projected_costs folder. This contains the packages required for the map visualizations of costs. Lastly, run visualizations_merged.ipynb.
+6. To generate the visualizations, first download https://drive.google.com/file/d/1Dk3DYOhaYahwIBE-Kxa8t4NTuqE8d1fL/view?usp=sharing and place it in the repository. Do the same with this folder https://drive.google.com/file/d/1VW4dHIp7_befuztdh3rXQqmqt-TfU901/view?usp=sharing. This contains the packages required for the map visualizations of costs. Lastly, run visualizations_merged.ipynb.
